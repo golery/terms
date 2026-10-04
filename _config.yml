@@ -1,4 +1,5 @@
 markdown: GFM
+theme: jekyll-theme-primer
 lsi: false
 safe: true
 source: https://github.com/golery/terms
