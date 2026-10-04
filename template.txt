@@ -59,7 +59,7 @@ Certain aspects of the Services may be provided for a fee. All pricing, billing 
 The Services may contain links to or integrations with third-party websites or applications. These integrations are provided for your convenience. Golery exercises no control over, and assumes no responsibility for, the content, privacy policies, or operational practices of any third-party services.
 
 10. Privacy and Data Security
-Your privacy is fundamentally important to us. Our collection, use, and disclosure of personal information are governed by our Privacy Policy, located at [Privacy Policy URL], which is incorporated by reference into these Terms. By using the Services, you consent to the processing and transfer of your data in and to the United States and other applicable jurisdictions.
+Your privacy is fundamentally important to us. Our collection, use, and disclosure of personal information are governed by our Privacy Policy, located at [https://golery.github.io/terms/privacy], which is incorporated by reference into these Terms. By using the Services, you consent to the processing and transfer of your data in and to the United States and other applicable jurisdictions.
 
 11. Modification and Termination
 Golery reserves the right to modify, suspend, or discontinue the Services (or any part thereof) at any time, with or without notice. We may terminate or suspend your account and access to the Services immediately, without prior notice or liability, for any reason whatsoever, including, without limitation, a breach of these Terms.
