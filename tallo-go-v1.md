@@ -1,3 +1,8 @@
+---
+layout: default
+title: TERMS OF SERVICE
+---
+
 # TERMS OF SERVICE
 
 Last Updated: Oct-4, 2026
